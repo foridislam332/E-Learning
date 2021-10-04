@@ -1,0 +1,33 @@
+.footer_container{
+    background-color: rgb(43, 44, 44);
+    padding: 40px 0;
+}
+.footer_content_box h1{
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+.footer_content_box h1 span{
+    color: #dc3545;
+}
+.footer_content_box p, .date, h5{
+    color: #7f8386;
+}
+.footer_content_box  h2, small{
+    color: #dc3545;
+}
+.footer_content_box h5{
+    margin-top: 10px;
+}
+.footer_menu ul{
+    padding: 0;
+}
+.footer_menu ul li{
+    list-style: none;
+    margin-bottom: 5px;
+}
+.footer_menu ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    border-bottom: 2px solid #b02a37;
+    padding-bottom: 3px;
+}

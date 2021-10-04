@@ -1,0 +1,20 @@
+.about_top{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 50px 0;
+}
+.learners_feedback{
+    padding: 50px 0;
+}
+.learners_feedback .col-md-6{
+    display: flex;
+}
+.about_top span{
+    color: #dc3545;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

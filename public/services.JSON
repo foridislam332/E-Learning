@@ -1,0 +1,72 @@
+[
+    {
+        "key": "WPP2018#01XJ",
+        "name": "Computer Engineering",
+        "price": 125,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/course5-740x500-1.jpg"
+    },
+    {
+        "key": "WPP2018#02GS",
+        "name": "General Science",
+        "price": 150,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/course6-740x500-1.jpg"
+    },
+    {
+        "key": "WPP2018#03MI",
+        "name": "Mathematics Information",
+        "price": 220,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/course7-740x500-1.jpg"
+    },
+    {
+        "key": "WPP2018#04CM",
+        "name": "Computer Management",
+        "price": 195,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/img_courses_Home01-C6H8C29.jpg"
+    },
+    {
+        "key": "WPP2018#05BM",
+        "name": "Business Management",
+        "price": 110,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/course2-740x500-1.jpg"
+    },
+    {
+        "key": "WPP2018#06ET",
+        "name": "English For Today",
+        "price": 125,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/course3-740x500-1.jpg"
+    },
+    {
+        "key": "WPP2018#07MJJ",
+        "name": "Modern Javascript",
+        "price": 95,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/course4-740x500-1.jpg"
+    },
+    {
+        "key": "WPP2018#8PP",
+        "name": "Python Programming",
+        "price": 250,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "http://skilify.theuxuidesigner.com/images/webp/crd-img.webp"
+    },
+    {
+        "key": "WPP2018#9DS",
+        "name": "Data Science",
+        "price": 175,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "http://skilify.theuxuidesigner.com/images/webp/crd-img2.webp"
+    },
+    {
+        "key": "WPP2018#10HP",
+        "name": "HTML5 Programming",
+        "price": 99,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "http://skilify.theuxuidesigner.com/images/webp/crd-img3.webp"
+    }
+]

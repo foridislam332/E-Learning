@@ -1,0 +1,16 @@
+.brand{
+    text-decoration: none;
+}
+.logo{
+    font-size: 30px;
+}
+.logo span{
+    color: #dc3545;
+}
+.link{
+    color: #ffffff;
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}

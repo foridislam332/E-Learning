@@ -1,0 +1,18 @@
+.services_container{
+    padding: 70px 0;
+}
+.services_top{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.services_top h1{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.services_top span{
+    color: #dc3545;
+}
+.services_top p{
+    font-size: 18px;
+    line-height: 1.3;
+}

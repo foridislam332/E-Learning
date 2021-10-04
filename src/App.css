@@ -1,10 +1,13 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.btn_regular{
+  margin-right: 20px;
+  padding: 15px 25px;
+  font-size: 20px;
+  font-weight: 500;
 }
 
 @media (prefers-reduced-motion: no-preference) {

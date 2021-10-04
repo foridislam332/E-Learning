@@ -1,0 +1,45 @@
+.home_container{
+    background-image: url(https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/img_slide_Home01-7UFW3PM.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.overlay{
+    background: #151948CC;
+}
+.home_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+.home_content h1{
+    color: #ffffff;
+    font-size: 70px;
+    font-weight: 700;
+}
+.home_content p{
+    color: #ffffff;
+    font-size: 24px;
+    text-transform: capitalize;
+    margin: 20px 0;
+}
+.home_services_container{
+    padding: 70px 0;
+}
+.home_services_container h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.home_services_container span{
+    color: rgb(236, 45, 45);
+}
+.home_btn{
+    margin-top: 40px;
+}
+.home_bottom_btn{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700 !important;
+    padding: 10px 20px !important;
+}

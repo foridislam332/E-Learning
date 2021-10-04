@@ -1,0 +1,30 @@
+[
+    {
+        "key": "WPP2018#01XJ",
+        "name": "Computer Engineering",
+        "price": 125,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/course5-740x500-1.jpg"
+    },
+    {
+        "key": "WPP2018#02GS",
+        "name": "General Science",
+        "price": 150,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/course6-740x500-1.jpg"
+    },
+    {
+        "key": "WPP2018#03MI",
+        "name": "Mathematics Information",
+        "price": 220,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/course7-740x500-1.jpg"
+    },
+    {
+        "key": "WPP2018#04CM",
+        "name": "Computer Management",
+        "price": 195,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "img": "https://demothemesflat.com/edukulkit/wp-content/uploads/2021/09/img_courses_Home01-C6H8C29.jpg"
+    }
+]
